@@ -39,4 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=master-of-none&show_icons=true&theme=dark&locale=en" alt="master-of-none" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=master-of-none&theme=dark" alt="master-of-none" /></p>
-![LeetCode Stats](https://leetcode.card.workers.dev/masterofn0n3?theme=dark&font=milonga&extension=activity)
