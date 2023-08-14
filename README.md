@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=master-of-none&label=Profile%20views&color=0e75b6&style=flat" alt="master-of-none" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-of-none" alt="master-of-none" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-of-none&theme=onedark" alt="master-of-none" /></a> </p>
 
 - 🔭 I’m currently working on [Systems Programming in Rust](https://github.com/master-of-none/rust-ing)
 
