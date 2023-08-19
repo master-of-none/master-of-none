@@ -17,7 +17,7 @@
 
 - 📝 I sometimes write articles on journey from Python to Rust [https://www.linkedin.com/in/shrikrishna-bhat/](https://www.linkedin.com/in/shrikrishna-bhat/)
 
-- 💬 Ask me about **Rust, Python, OCaml, React**
+- 💬 Ask me about **Rust, Python, OCaml, React, Rust**
 
 - 📫 How to reach me **shrikrishna.bht@gmail.com**
 
