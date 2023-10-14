@@ -11,13 +11,13 @@
 
 - 🥳 I’m developing [Scalable Prescription Management System in Rust](https://github.com/master-of-none/prescription-management-system)
 
-- 🤝 I’m looking to learn [OCaml](https://github.com/master-of-none/ocaml)
+- 🤝 I’m looking to learn [OCaml](https://github.com/master-of-none/ocaml), Haskell
 
 - 👨‍💻 All of my projects are available at [https://master-of-none.github.io/shrikrishnabhat/](https://master-of-none.github.io/shrikrishnabhat/)
 
 - 📝 I sometimes write articles on journey from Python to Rust [https://www.linkedin.com/in/shrikrishna-bhat/](https://www.linkedin.com/in/shrikrishna-bhat/)
 
-- 💬 Ask me about **Rust, Python, OCaml, React, Rust**
+- 💬 Ask me about **Rust, Python, OCaml, React**
 
 - 📫 How to reach me **shrikrishna.bht@gmail.com**
 
