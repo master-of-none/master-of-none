@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Systems Programming in Rust](https://github.com/master-of-none/rust-ing)
 
-- 🌱 I’m currently learning **TypeScript, NextJS, NodeJS**
+- 🌱 I’m currently learning **Haskell**
 
 - 🥳 I’m developing [Scalable Prescription Management System in Rust](https://github.com/master-of-none/prescription-management-system)
 
-- 🤝 I’m looking to learn [OCaml](https://github.com/master-of-none/ocaml), Haskell
+- 🤝 I’m looking to learn [OCaml](https://github.com/master-of-none/ocaml), OCaml
 
 - 👨‍💻 All of my projects are available at [https://master-of-none.github.io/shrikrishnabhat/](https://master-of-none.github.io/shrikrishnabhat/)
 
