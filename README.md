@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shrikrishna Bhat</h1>
-<h3 align="center">CS Grad student at PSU | Currently working on Systems Programming with Rust | NextJS as fuel| OCaml for fun</h3>
+<h1 align="center">Hi 👋, I'm Shrikrishna Bhat 👨🏻‍💻</h1>
+<h3 align="center">CS Grad student at PSU | Currently working on writing applications OCaml</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=master-of-none&label=Profile%20views&color=0e75b6&style=flat" alt="master-of-none" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-of-none&theme=onedark" alt="master-of-none" /></a> </p>
-
-- 🔭 I’m currently working on [Systems Programming in Rust](https://github.com/master-of-none/rust-ing)
-
-- 🌱 I’m currently learning **Haskell**
 
 - 🥳 I’m developing [Scalable Prescription Management System in Rust](https://github.com/master-of-none/prescription-management-system)
 
