@@ -5,6 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-of-none&theme=onedark" alt="master-of-none" /></a> </p>
 
+###
+
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470njh7eknse6kawlum2vmusnph04vglfrc4s2lrgi&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
+###
 - 🥳 I’m developing [Scalable Prescription Management System in Rust](https://github.com/master-of-none/prescription-management-system)
 
 - 🤝 I’m looking to learn [OCaml](https://github.com/master-of-none/ocaml), OCaml
@@ -35,3 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=master-of-none&show_icons=true&theme=dark&locale=en" alt="master-of-none" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=master-of-none&theme=dark" alt="master-of-none" /></p>
+
