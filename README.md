@@ -5,9 +5,8 @@
 <h1 align="center">Hi 👋, I'm Shrikrishna Bhat 👨🏻‍💻</h1>
 <h3 align="center">CS Grad student at PSU | Currently working on writing applications OCaml</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=master-of-none&label=Profile%20views&color=0e75b6&style=flat" alt="master-of-none" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-of-none&theme=onedark" alt="master-of-none" /></a> </p>
+
 ###
 <img src="https://raw.githubusercontent.com/master-of-none/master-of-none/output/snake.svg" alt="Snake animation" />
 
@@ -41,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=master-of-none&show_icons=true&theme=dark&locale=en" alt="master-of-none" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=master-of-none&theme=dark" alt="master-of-none" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=master-of-none&label=Profile%20views&color=0e75b6&style=flat" alt="master-of-none" /> </p>
