@@ -1,16 +1,14 @@
+###
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470njh7eknse6kawlum2vmusnph04vglfrc4s2lrgi&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+###
 <h1 align="center">Hi 👋, I'm Shrikrishna Bhat 👨🏻‍💻</h1>
 <h3 align="center">CS Grad student at PSU | Currently working on writing applications OCaml</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=master-of-none&label=Profile%20views&color=0e75b6&style=flat" alt="master-of-none" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-of-none&theme=onedark" alt="master-of-none" /></a> </p>
-
-###
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470njh7eknse6kawlum2vmusnph04vglfrc4s2lrgi&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-###
-
 ###
 <img src="https://raw.githubusercontent.com/master-of-none/master-of-none/output/snake.svg" alt="Snake animation" />
 ###
