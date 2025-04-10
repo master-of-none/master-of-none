@@ -12,7 +12,7 @@
 
 - 🥳 I’m developing [Scalable Prescription Management System in Rust](https://github.com/master-of-none/prescription-management-system)
 
-- 🤝 I’m looking to learn [OCaml](https://github.com/master-of-none/ocaml), OCaml
+- 🤝 I’m looking to learn [OCaml](https://github.com/master-of-none/ocaml), Clojure
 
 - 👨‍💻 All of my projects are available at [https://master-of-none.github.io/shrikrishnabhat/](https://master-of-none.github.io/shrikrishnabhat/)
 
