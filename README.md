@@ -3,28 +3,30 @@
   <img height="200" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470njh7eknse6kawlum2vmusnph04vglfrc4s2lrgi&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 <h1 align="center">Hi 👋, I'm Shrikrishna Bhat 👨🏻‍💻</h1>
-<h3 align="center">CS Grad student at PSU | Currently working on writing applications OCaml</h3>
+<h3 align="center">CS Graduate | Learning OCaml & C++ | Building Accessible Games at Audemy </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-of-none&theme=onedark" alt="master-of-none" /></a> </p>
 
 ###
 <img src="https://raw.githubusercontent.com/master-of-none/master-of-none/output/snake.svg" alt="Snake animation" />
 
-- 🥳 I’m developing [Scalable Prescription Management System in Rust](https://github.com/master-of-none/prescription-management-system)
+- 🧠 Exploring functional programming through [OCaml](https://github.com/master-of-none/ocamlino) and Clojure
 
-- 🤝 I’m looking to learn [OCaml](https://github.com/master-of-none/ocaml), Clojure
+- 💻 Practicing DSA in OCaml, Python, and C++
 
-- 👨‍💻 All of my projects are available at [https://master-of-none.github.io/shrikrishnabhat/](https://master-of-none.github.io/shrikrishnabhat/)
+- 🎮 Building accessible educational games at [Audemy](https://audemy.org)
 
-- 📝 I sometimes write articles on journey from Python to Rust [https://www.linkedin.com/in/shrikrishna-bhat/](https://www.linkedin.com/in/shrikrishna-bhat/)
+- 🌐 All my projects live at [my portfolio site](https://shrikrishna-bhat-portfolio.vercel.app/)
 
-- 💬 Ask me about **Rust, Python, OCaml, React**
+- ✍️ Occasionally write about my dev journey: [LinkedIn](https://www.linkedin.com/in/shrikrishna-bhat/)
 
-- 📫 How to reach me **shrikrishna.bht@gmail.com**
+- 💬 Ask me about **Rust, Python, OCaml, Vue, or building accessible tech**
 
-- 📄 Know about my experiences [https://master-of-none.github.io/portfolio-nextJS/Resume.pdf](https://master-of-none.github.io/portfolio-nextJS/Resume.pdf)
+- 📫 Reach me: **shrikrishna.bht@gmail.com**
 
-- ⚡ Fun fact **I code for fun and enjoy gaming**
+- 📄 View my [Resume](https://master-of-none.github.io/portfolio-nextJS/Resume.pdf)
+
+- ⚡ Fun fact: I code for fun and enjoy gaming
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
