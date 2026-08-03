@@ -48,8 +48,8 @@ I’m currently a **Founding Engineer at LearnEx** in Bangalore, working across 
 | [Embedded Rust](https://github.com/master-of-none/rust) | Bare-metal firmware for ESP32-C6 and BBC micro:bit | Rust · `no_std` · embassy-rs |
 | [Blogger in Go](https://github.com/master-of-none/rest-auth) | Containerized REST platform with load balancing and caching | Go · Docker · Kubernetes |
 | [ocamlino](https://github.com/master-of-none/ocamlino) | Functional data structures and DSA practice | OCaml · dune · Docker |
-
-More experiments in machine learning and CUDA are collected on my [portfolio](https://shrikrishna-bhat-portfolio.vercel.app/).
+| [machine-learning](https://github.com/master-of-none/machine-learning) | Hands-on machine learning journey | Python · PyTorch · TensorFlow · scikit-learn |
+| [cuda](https://github.com/master-of-none/cuda) | GPU kernels and CUDA fundamentals from scratch | CUDA · C/C++ |
 
 ## Tech I enjoy
 
