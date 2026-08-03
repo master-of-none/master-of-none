@@ -45,8 +45,8 @@ I’m currently a **Founding Engineer at LearnEx** in Bangalore, working across 
 | Project | What it is | Stack |
 |---|---|---|
 | [Schedule Enforcer](https://github.com/master-of-none/scheduler) | Offline-first scheduling, journaling, and sync with a self-hosted backend | Electron · React · Express · PostgreSQL |
-| [Embedded Rust](https://github.com/master-of-none/rust) | Bare-metal firmware for ESP32-C6 and BBC micro:bit | Rust · `no_std` · embassy-rs |
-| [Blogger in Go](https://github.com/master-of-none/rest-auth) | Containerized REST platform with load balancing and caching | Go · Docker · Kubernetes |
+| [Embedded Rust](https://github.com/master-of-none/embedded-rust) | Bare-metal firmware for ESP32-C6 and BBC micro:bit | Rust · `no_std` · embassy-rs |
+| [Blogger in Go](https://github.com/master-of-none/gopher) | Containerized REST platform with load balancing and caching | Go · Docker · Kubernetes |
 | [ocamlino](https://github.com/master-of-none/ocamlino) | Functional data structures and DSA practice | OCaml · dune · Docker |
 | [machine-learning](https://github.com/master-of-none/machine-learning) | Hands-on machine learning journey | Python · PyTorch · TensorFlow · scikit-learn |
 | [cuda](https://github.com/master-of-none/cuda) | GPU kernels and CUDA fundamentals from scratch | CUDA · C/C++ |
@@ -65,13 +65,18 @@ I’m currently a **Founding Engineer at LearnEx** in Bangalore, working across 
 ## GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=master-of-none&theme=github_dark" alt="Shrikrishna's GitHub profile summary" />
+  <a href="https://github.com/master-of-none">
+    <img src="https://img.shields.io/badge/GitHub-master--of--none-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://github.com/master-of-none?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+  <a href="https://github.com/master-of-none?tab=overview">
+    <img src="https://img.shields.io/badge/Activity-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub activity" />
+  </a>
 </div>
 
-<div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=master-of-none&theme=github_dark" alt="Shrikrishna's repository languages" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=master-of-none&theme=github_dark" alt="Shrikrishna's most used commit languages" />
-</div>
+My public repositories, contribution graph, languages, and activity are available directly on my [GitHub profile](https://github.com/master-of-none).
 
 <div align="center">
 
