@@ -4,9 +4,9 @@
 
 ### Founding engineer · Rust · TypeScript · Python
 
-<a href="https://shrikrishna.dev">Portfolio</a>
+<a href="https://shrikrishna-bhat-portfolio.vercel.app/">Portfolio</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://shrikrishna.dev/Resume.pdf">Résumé</a>
+<a href="https://shrikrishna-bhat-portfolio.vercel.app/Resume.pdf">Résumé</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shrikrishna-bhat/">LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -49,7 +49,7 @@ I’m currently a **Founding Engineer at LearnEx** in Bangalore, working across 
 | [Blogger in Go](https://github.com/master-of-none/rest-auth) | Containerized REST platform with load balancing and caching | Go · Docker · Kubernetes |
 | [ocamlino](https://github.com/master-of-none/ocamlino) | Functional data structures and DSA practice | OCaml · dune · Docker |
 
-More experiments in machine learning and CUDA are collected on my [portfolio](https://shrikrishna.dev).
+More experiments in machine learning and CUDA are collected on my [portfolio](https://shrikrishna-bhat-portfolio.vercel.app/).
 
 ## Tech I enjoy
 
@@ -65,8 +65,12 @@ More experiments in machine learning and CUDA are collected on my [portfolio](ht
 ## GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=master-of-none&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=6366f1&icon_color=6366f1" alt="Shrikrishna's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=master-of-none&layout=compact&hide_border=true&theme=transparent&title_color=6366f1" alt="Shrikrishna's top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=master-of-none&theme=github_dark" alt="Shrikrishna's GitHub profile summary" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=master-of-none&theme=github_dark" alt="Shrikrishna's repository languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=master-of-none&theme=github_dark" alt="Shrikrishna's most used commit languages" />
 </div>
 
 <div align="center">
